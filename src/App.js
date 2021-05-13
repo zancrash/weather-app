@@ -11,7 +11,7 @@ import Weather from './components/Weather';
 
 
 //api key from OpenWeatherMap.org
-const API_KEY = '936d24cbc94b5e8c8712f5d3ea39d933';
+const API_KEY = process.env.REACT_APP_OWM_API_KEY;
 
 // wrapper component:
 class App extends React.Component {
