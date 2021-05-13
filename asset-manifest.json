@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tempest/static/css/main.3a3a9d97.chunk.css",
+    "main.js": "/tempest/static/js/main.fb01e9f6.chunk.js",
+    "main.js.map": "/tempest/static/js/main.fb01e9f6.chunk.js.map",
+    "runtime-main.js": "/tempest/static/js/runtime-main.5005a96a.js",
+    "runtime-main.js.map": "/tempest/static/js/runtime-main.5005a96a.js.map",
+    "static/js/2.157c68db.chunk.js": "/tempest/static/js/2.157c68db.chunk.js",
+    "static/js/2.157c68db.chunk.js.map": "/tempest/static/js/2.157c68db.chunk.js.map",
+    "static/js/3.0fc52928.chunk.js": "/tempest/static/js/3.0fc52928.chunk.js",
+    "static/js/3.0fc52928.chunk.js.map": "/tempest/static/js/3.0fc52928.chunk.js.map",
+    "index.html": "/tempest/index.html",
+    "static/css/main.3a3a9d97.chunk.css.map": "/tempest/static/css/main.3a3a9d97.chunk.css.map",
+    "static/js/2.157c68db.chunk.js.LICENSE.txt": "/tempest/static/js/2.157c68db.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tempest/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5005a96a.js",
+    "static/js/2.157c68db.chunk.js",
+    "static/css/main.3a3a9d97.chunk.css",
+    "static/js/main.fb01e9f6.chunk.js"
+  ]
+}
